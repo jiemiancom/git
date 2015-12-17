@@ -5,4 +5,9 @@ c
 Git tracks changes of files.
 Greating a new branch is quick and simple.
 fzglcl
+<<<<<<< Updated upstream
 cxcs bu she ji xin hang
+=======
+cxcs
+test stash
+>>>>>>> Stashed changes
